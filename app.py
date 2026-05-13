@@ -1,0 +1,6 @@
+print("My name is Allen")
+print("I am 10 years old")
+print("I am learning python")
+print("3")
+print(3)
+
