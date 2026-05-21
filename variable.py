@@ -13,3 +13,4 @@ name="Timothy Onyango"
 product_bought="Iphone 14"
 price =100000
 print(f"customer name {name},product bought {product_bought}, Its price is {price}")
+
